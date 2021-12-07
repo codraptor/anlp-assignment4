@@ -3,4 +3,4 @@ Baseline implementation for the task of Job Salary Prediction based on the work 
 lstm-fasttext-nb.ipynb implements a LSTM baseline for the task\
 random-forest-only-description.py implements the Random Forest Baseline from the Jackman & Reid paper
 
-Multi Input Regression.ipynb implements the MIFE Model
+Multi Input Regression.ipynb implements the MIFE ( Multi Input Feature Ensemble ) Model

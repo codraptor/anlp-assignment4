@@ -4,3 +4,5 @@ lstm-fasttext-nb.ipynb implements a LSTM baseline for the task\
 random-forest-only-description.py implements the Random Forest Baseline from the Jackman & Reid paper
 
 Multi Input Regression.ipynb implements the MIFE ( Multi Input Feature Ensemble ) Model
+
+tabert.py contains the current implementation of Tabert model
